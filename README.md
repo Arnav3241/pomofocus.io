@@ -1,6 +1,5 @@
 <div className="text-4xl">
-          Todo: Add Pomodoro Timer
-        </div>
+          <h1>Todo: Add Pomodoro Timer</h1>
         <ul className="list-disc px-10 pt-5">
           <li className="w-full">Add a basic timer</li>
           <li className="w-full">Improve the design.</li>
